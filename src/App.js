@@ -6,6 +6,7 @@ import ConverterInchToCm from "./components/ConverterInchToCm";
 function App() {
   return (
     <div className="App">
+      <h1>Below are two useful converters: </h1>
       <ConverterCmToInch />
       <ConverterInchToCm />
     </div>
